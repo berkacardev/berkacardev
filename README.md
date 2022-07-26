@@ -1,5 +1,5 @@
 - 👋 Hi, My name is Berk Acar. I am a Backend developer
-- 👀 See my portfolio at <a href ="https://www.linkedin.com/in/berkacar/">LinledIn</>
+- 👀 See my portfolio at <a href ="https://www.linkedin.com/in/berkacar/">LinledIn</a>
 - 🌱 I’m currently learning asynchronous programming on .Net
 - 📫 You can contact me at <a href="mailto:someone@example.com">berkacar.artel@gmail.com</a>
   
