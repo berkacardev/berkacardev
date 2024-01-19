@@ -3,4 +3,4 @@
 - 🌱 I'm currently working on Microsoft Azure.
 - 📫 You can contact me at <a href="mailto:someone@example.com">berkacar.artel@gmail.com</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkacardev&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkacardev&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
