@@ -5,7 +5,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkacardev&count_private=true)
 
-<img
+<span><h1>Java SE 8 OCA Developer</h1> <img
   src="https://images.credly.com/images/a9848abf-f8bd-474d-a9b4-6086da11a916/Oracle_Associates_Badge__1_.png"
   title="Java SE 8 OCA Developer"
-  style="display: inline-block; margin: 0 auto; width: 125px; height: 125px;">
+  style="display: inline-block; margin: 0 auto; width: 125px; height: 125px;"> </span>
