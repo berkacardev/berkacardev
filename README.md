@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Berk Acar. I am a full stack developer developer and I am candidate Mechanical Engineer.
+- 👋 Hi, My name is Berk Acar. I am a full stack developer developer and I am Mechanical Engineer.
 - 👀 See my portfolio at <a href ="https://www.linkedin.com/in/berkacar/">LinledIn</a>
 - 🌱 I'm currently working on Microsoft Azure.
 - 📫 You can contact me at <a href="mailto:someone@example.com">berkacar035@gmail.com</a>
